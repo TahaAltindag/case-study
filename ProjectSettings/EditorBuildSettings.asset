@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/DragReleaseToThrow/Scenes/DragReleaseToThrow.unity
+    guid: 37ab92c055d9b3149b40a58e3548d477
   m_configObjects: {}
